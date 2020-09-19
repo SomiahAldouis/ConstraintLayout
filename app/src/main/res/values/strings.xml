@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Shopping</string>
+    <string name="primary">Go Shopping</string>
+    <string name="text1">Name</string>
+    <string name="editText1">Handcrafted sofas</string>
+    <string name="text2">Price</string>
+    <string name="editText2">$354,56</string>
+    <string name="lablab">One of the many things that make
+        a house a home is a beautiful, comfortable sofa.
+        That’s why we’re dedicated to creating a range of
+        meticulously designed, lovingly handmade,
+        high quality sofas in a wide range of styles. We have
+        more than 30 designs in our sofa collection, as well
+        as over 100 fabrics to choose from, so you can create
+        a sofa that’s just right for you.</string>
+</resources>
